@@ -23,10 +23,12 @@ Não preve erros dos usuários
 Nomes dos menus escritos de forma clara e intuitiva para o usuário
 
 7: Flexibilidade e Eficiência de Uso</br>
-
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/ed117eb0-ad14-42a3-88e9-32c5c8def0fd)
+O Mac OS dá aos usuários a liberdade de criar um teclado personalizado e comandos de atalho
 
 8: Design Estético e Minimalista</br>
-
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/4b88cfb2-ca73-461b-b291-dd1d32c00c24)
+Site com design minimalista
 
 9: Ajuda os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros</br>
 ![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/b4309181-e720-43ff-ad6d-66467f9c3154)
