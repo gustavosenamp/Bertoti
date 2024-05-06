@@ -1,16 +1,25 @@
-In This Article:
 
-1: Visibility of System Status</br>
-2: Match Between the System and the Real World</br>
+1: Visibilidade do Estado do Sistema:</br>
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/8ba0666a-d38c-4ccc-8c07-9e119d0d501c)
+Mostra uma mensagem dizendo o que está acontecendo no sistema.
+
+2: Correspondência entre o Sistema e o Mundo Real</br>
 ![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/81083470-ade6-405b-a8de-f5dd2bc4e176)
 
-3: User Control and Freedom</br>
-4: Consistency and Standards</br>
-5: Error Prevention</br>
+3: Controle e Liberdade do Usuário</br>
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/5f57b145-edc4-4ffd-b9b6-38aa90cf9522)
+Consegue dar CTRL + Z e voltar a o que tinha feito antes
+
+4: Consistência e Padrões</br>
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/9a661147-948b-43d3-b816-174c6c2ba9a0)
+Abas indicando cada página
+
+5: Prevenção de Erros</br>
 ![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/12e426c9-2f88-4954-b9ad-46fded131d85)
 
-6: Recognition Rather than Recall</br>
-7: Flexibility and Efficiency of Use</br>
-8: Aesthetic and Minimalist Design</br>
-9: Help Users Recognize, Diagnose, and Recover from Errors</br>
-10: Help and Documentation</br>
+6: Reconhecimento em vez de Lembrança</br>
+
+7: Flexibilidade e Eficiência de Uso</br>
+8: Design Estético e Minimalista</br>
+9: Ajuda os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros</br>
+10: Ajuda e Documentação</br>
