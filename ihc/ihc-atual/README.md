@@ -16,10 +16,23 @@ Abas indicando cada página
 
 5: Prevenção de Erros</br>
 ![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/12e426c9-2f88-4954-b9ad-46fded131d85)
+Não preve erros dos usuários
 
 6: Reconhecimento em vez de Lembrança</br>
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/cadd3df6-2c07-4aab-8cec-bee92ef8164e)
+Nomes dos menus escritos de forma clara e intuitiva para o usuário
 
 7: Flexibilidade e Eficiência de Uso</br>
+
+
 8: Design Estético e Minimalista</br>
+
+
 9: Ajuda os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros</br>
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/b4309181-e720-43ff-ad6d-66467f9c3154)
+Login simples bem feito e completo
+
 10: Ajuda e Documentação</br>
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/850ad45d-8df0-45eb-8d61-a0a4fc8e4145)
+Sessão de Perguntas Frequentes (FAQ)
+
