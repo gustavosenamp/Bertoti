@@ -4,7 +4,8 @@
 Mostra uma mensagem dizendo o que está acontecendo no sistema.
 
 2: Correspondência entre o Sistema e o Mundo Real</br>
-![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/81083470-ade6-405b-a8de-f5dd2bc4e176)
+![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/cfe39041-0a9c-461f-93e6-6130c1420513)
+Os ícones correspondem bem entre o sistema e o mundo real
 
 3: Controle e Liberdade do Usuário</br>
 ![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/5f57b145-edc4-4ffd-b9b6-38aa90cf9522)
