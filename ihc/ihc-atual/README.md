@@ -39,3 +39,18 @@ Login simples bem feito e completo
 ![image](https://github.com/gustavosenamp/Bertoti/assets/123789443/850ad45d-8df0-45eb-8d61-a0a4fc8e4145)
 Sessão de Perguntas Frequentes (FAQ)
 
+-------------------------------------------------- // ------------------------------------------------------
+
+O QUE É NECESSÁRIO PARA INSTALAR O CHATBOT:
+
+'''
+!pip install python-telegram-bot==13.7
+'''
+
+'''
+!pip install llama_cpp_python
+'''
+
+'''
+!pip install pytelegrambotapi
+'''
