@@ -43,14 +43,14 @@ Sessão de Perguntas Frequentes (FAQ)
 
 O QUE É NECESSÁRIO PARA INSTALAR O CHATBOT:
 
-'''
+```
 !pip install python-telegram-bot==13.7
-'''
+```
 
-'''
+```
 !pip install llama_cpp_python
-'''
+```
 
-'''
+```
 !pip install pytelegrambotapi
-'''
+```
